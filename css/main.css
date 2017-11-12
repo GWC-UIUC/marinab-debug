@@ -44,7 +44,7 @@ h5 {
 }
 .btn {
 	background-color: #f442e2;
-	color: #f442e2;
+	color: #fff;
 	font-size: 13px;
 	font-weight: 600;
 	letter-spacing: 5px;
@@ -298,7 +298,7 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .banner {
-	background-color: #65349c;
+	background-color: #f442e2;
 	min-height: 750px;
 }
 .banner-text {
